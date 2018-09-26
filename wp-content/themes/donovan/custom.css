@@ -1,0 +1,70 @@
+.header_top_m{ padding:0px 25px;}
+
+#logo{display: inline-block;
+    padding: 22px 0px 14px 0;}
+#main-navigation{ float:right; margin-top:10px;}
+
+.site-header{}
+
+#post-wrapper .type-post{ padding:0px; background:none;}
+
+.type-post .entry-categories{float: left;
+    margin-right: 20px;}
+
+.sidebar h4{    background: #efefef;
+    padding: 9px;}
+
+.sidebar.widget-area ul{ padding-left:10px;}
+
+.navigation.post-navigation .nav-links h3{ display:none;}
+
+
+
+
+/* -------------------17-8-2018------------------*/
+
+.text-center {
+    text-align: center !important;
+}
+ 
+.site-footer {
+    background:#000;
+padding-bottom: 25px;
+border-top: 1px solid #000;
+width: 100%;
+} 
+
+
+.site-footer a{ color: #fff !important; }
+
+.follow {
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Didact Gothic', sans-serif;
+    margin-right: 20px;
+    margin-top: 8px;
+}
+.disclaimer{ color: #fff; }
+.copyright{ color: #fff; }
+
+.footer_l h1{ text-align: center; font-size: 25px; }
+.mid_search_new{padding: 13px;
+width: 100%;
+border-radius: 3px;
+border: none;
+margin-top: 12px;}
+
+
+.right_new_nav{}
+.right_new_nav ul{ text-align: right; margin-bottom: 0px; }
+.right_new_nav ul li{ display: inline-block; }
+.right_new_nav a{ color: #fff;
+text-align: right;
+padding: 27px 22px;
+display: inline-block; }
+
+
+.social-media-icons .follow{ text-align: center; display: inline-block; width: 100%; padding-top: 35px; padding-bottom: 10px; color: #fff;}
+.social-media-icons ul a{ margin-right: 3px; margin-left: 3px; opacity: 0.7; }
+.social-media-icons ul a:hover{opacity: 1;}
